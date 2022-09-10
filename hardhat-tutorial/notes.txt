@@ -1,0 +1,3 @@
+why we use interfaces, so when we have to import a contract, i.e. make an instance of the contract, it is preferred to 
+specify only the relevant functions with no body content, as this will reduce gas fees, and ia sufficient, given 
+we know the actual address of the main contract 
